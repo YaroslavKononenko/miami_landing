@@ -1,4 +1,4 @@
-Result: 
+Result: DEMO_Link (https://yaroslavkononenko.github.io/miami_landing/)
 
 TASK:
 # Miami landing page
